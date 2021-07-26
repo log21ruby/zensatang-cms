@@ -1,6 +1,6 @@
 {
-  "name": "translation-examples",
-  "private": true,
+  "name": "zensatangcms",
+  "private": false,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
