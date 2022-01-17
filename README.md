@@ -1,5 +1,10 @@
-# zensatang
+# Zensatang CMS
 
+## Active Websites
+CMS site to manage content: https://zensatang-cms-studio.netlify.app/desk
+Admin site manage members: https://www.sanity.io/manage/personal/project/i80izr9o/members
+
+## Deployment information
 Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-translation-examples).
 
 ## What you have
